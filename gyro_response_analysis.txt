@@ -1,0 +1,4 @@
+Mean time difference: 0.563
+Standard deviation of time difference: 0.0
+Minimum time difference: 0.34
+Maximum time difference: 0.83
